@@ -1,0 +1,6 @@
+{
+  "name": "Eksplorasi Sains: Materi, Pengukuran, dan Perubahannya",
+  "description": "Website bahan ajar IPA/Fisika interaktif berbasis Experiential Learning dengan simulasi laboratorium virtual, lembar pengamatan real-time, dan evaluasi adaptif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
